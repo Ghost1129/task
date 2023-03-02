@@ -7,7 +7,7 @@ const Navbar = () => {
     const [show, setShow] = React.useState(false)
   return (
     <nav className='relative flex items-center justify-between p-6 '>
-        <div className='text-xl font-extrabold'>M</div>
+        <div className='text-3xl font-extrabold'>M</div>
         <div className='flex items-center'>
             <ul className='items-center hidden gap-5 md:flex'>
             {['Sample', 'Features', 'Layouts', 'Our Shop', 'But Theme'].map((item, index) => (

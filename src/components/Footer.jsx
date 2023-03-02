@@ -7,7 +7,7 @@ const Footer = () => {
       {/* Upper Footer */}
       <div className=' h-[40%] md:h-[40%] bg-gradient-to-r from-blue-600 to-sky-400 flex items-center justify-center'>
         <div className='flex flex-col items-center gap-4 m-6 text-center md:m-0 md:flex-row'>
-          <h3 className='text-lg font-bold md:text-2xl lg:text-4xl'>Hit the ground running with a minimalist look.</h3>
+          <h3 className='text-lg font-bold md:text-2xl lg:text-3xl'>Hit the ground running with a minimalist look.</h3>
           <button className='px-3 py-2 text-black bg-white md:px-5 md:py-4' >Learn More</button>
         </div>
 
